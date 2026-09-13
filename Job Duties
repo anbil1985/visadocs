@@ -1,0 +1,19 @@
+1)Development Activities - Feature Development -
+	Design Test plan, test case and test framework development for the new firmware features
+	Develop Black box tests for multiple platforms in both Linux and Windows OS versions
+	Enterprise Product firmware feature test coverage and development of the features and modules for unit testing and functionality testing
+	Test coverage enhancements for issues seen at the customer field enviroment	
+	Performance measurement using Stress tests with open source(FIO) and Samsung's proprietary and Licensed Third party tools and ensure 100% adherence to the specifications
+2) Framework Development
+	Development of a new framework to support and validate Zoned namespace features which are completely new to Samsung and since Pradeep has prior experience on Zoned Namespace feature development, Samsung would leverage his knowledge and experience as that would help other team members to ramp up faster.
+	Feasibility study of using existing open source frameworks like SPDK(StoragePerformanceDevelopmentKit) and also integration of the test cases into Samsung's in house framework for zoned namespaces
+	Deployment of APIs from existing tools into the new framework and add test commands for validating the functionality behaviour of Samsung SSDs
+	Development of PCIe Gen7, Gen6, Gen5,Gen4 compliance test suite and test cases  for MCTP over both SMBUS and VDM and identify Spec violations and file defects for the failures to firmware development team
+	Assist development team in enhancing the framework and adding new features to support both single port and dual port Samsung SSDs
+3) Develop  Pcie Gen7,Gen6,Gen5,Gen4  complaince  NVMe Management Interface  complaince and PCI VDM compliance tests debug the failures 
+4)Customer Field Issue analysis
+5)Tools - Lecroy,UNH, Oakgate,tnvme host compliance tools , FIO, VDBENCH
+6)Software - T32 debugger , PCie Analyser,Exerciser.
+7)Technologies - Zoned Namespaces, Gen4
+8)Certifications - UNH certification, Lecroy certification
+9)Licenses - Lecroy, UNH, SanBlaze
